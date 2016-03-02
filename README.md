@@ -1,5 +1,5 @@
 # emacs-mode.ahk
-Provides an Emacs-like keybinding emulation mdoe that can be toggled on and off using the Caps Lock key.
+Provides an Emacs-like keybinding emulation mode that can be toggled on and off using the Caps Lock key.
 
 Adapted from [usi3/emacs.ahk](https://github.com/usi3/emacs.ahk) and [davesquared.net](http://www.davesquared.net/2008/02/emacs-key-bindings-everywhere.html).
 
@@ -7,7 +7,7 @@ Adapted from [usi3/emacs.ahk](https://github.com/usi3/emacs.ahk) and [davesquare
 <table>
   <tr>
     <th>Keybinding</th>
-    <th>Function(Emacs Lisp)</th>
+    <th>Function (Emacs Lisp)</th>
   </tr>
 <tr>
 <td>C-Space</td>
@@ -120,5 +120,5 @@ Adapted from [usi3/emacs.ahk](https://github.com/usi3/emacs.ahk) and [davesquare
 </table>
 
 ## Other Features
-* Support for system-wide or program-specific disablement
+* System-wide or program-specific disablement
 * System tray status icon and pop-up notification
