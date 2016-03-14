@@ -1,4 +1,4 @@
-# emacs-mode.ahk
+# AHKeymacs
 Provides an Emacs-like keybinding emulation mode that can be toggled on and off using the Caps Lock key.
 
 Adapted from [usi3/emacs.ahk](https://github.com/usi3/emacs.ahk) and [davesquared.net](http://www.davesquared.net/2008/02/emacs-key-bindings-everywhere.html).
